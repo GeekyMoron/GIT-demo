@@ -42,6 +42,9 @@ public class Basics {
 		//when ever u see [] in json then it is array.
 		
 		System.out.println("changes done due to git 1234563725235  git done on 16 may");
+		System.out.println("changes done due to development");
+		System.out.println("changes I m SDET");
+		System.out.println("changes i m sdet");
 		
 	
 	
